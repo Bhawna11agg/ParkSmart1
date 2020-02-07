@@ -33,15 +33,17 @@ public class HomeFragment extends Fragment {
         if (mapFragment == null) {
             mapFragment = SupportMapFragment.newInstance();
             fm.beginTransaction().replace(R.id.map, mapFragment).commit();
+
         } else {
             mapFragment.getMapAsync(new OnMapReadyCallback() {
 
-                @Override
-                public void onMapReady(GoogleMap googleMap) {
+                    @Override
+                    public void onMapReady (GoogleMap googleMap){
                     googleMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);
 
                 }
-            });
+                });
+
         }
     }
 }
