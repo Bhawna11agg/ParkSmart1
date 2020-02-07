@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354141358771",
+    "firebase_url": "https://parksmart1-a2e17.firebaseio.com",
+    "project_id": "parksmart1-a2e17",
+    "storage_bucket": "parksmart1-a2e17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354141358771:android:a98b7a68324946d361fec6",
+        "android_client_info": {
+          "package_name": "com.example.parksmart1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354141358771-atpnp3c89gqi71auk3tmbrgibulke5ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parksmart1",
+            "certificate_hash": "a18fd3969872ae90ff58405ce5ecbd522c27a39b"
+          }
+        },
+        {
+          "client_id": "354141358771-596r9dt9o2bnr53s2p8j52422i3peiin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC072EHEKuh_WYx9GguoLbhhm94wjHFti8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354141358771-596r9dt9o2bnr53s2p8j52422i3peiin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
