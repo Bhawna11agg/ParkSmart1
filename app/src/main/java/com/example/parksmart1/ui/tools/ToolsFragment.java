@@ -1,10 +1,6 @@
 package com.example.parksmart1.ui.tools;
-<<<<<<< HEAD
-=======
-
 import android.graphics.Bitmap;
 import android.graphics.Point;
->>>>>>> 905b08f02222e1f52b28e48eabfa0272d66a4441
 import android.os.Bundle;
 import android.os.Environment;
 import android.util.Log;
@@ -17,11 +13,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
-<<<<<<< HEAD
-=======
 import android.widget.Toast;
-
->>>>>>> 905b08f02222e1f52b28e48eabfa0272d66a4441
 import androidx.annotation.Nullable;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
